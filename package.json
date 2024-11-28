@@ -1,6 +1,6 @@
 {
   "name": "minecraft-sniffing",
-  "description": "",
+  "description": "Minecraft sniffer to collect usernames of hypixel skyblock players",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
