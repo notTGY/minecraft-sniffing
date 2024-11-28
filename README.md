@@ -16,4 +16,4 @@ npm start
 ```
 
 Connect to minecraft server using Minecraft 1.8.9 at
-`localhost:25565`
+`localhost:25566`
