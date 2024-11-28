@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-sniffing",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node proxy.js mc.hypixel.net 1.8.9"
+  },
+  "keywords": ["minecraft", "hypixel"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "minecraft-protocol": "^1.50.0"
+  }
+}
